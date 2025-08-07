@@ -26,7 +26,8 @@
 .tabelaCarros{
     display: flex;
     justify-content: center;
-    gap: 30px;
+    gap: 20px;
+    padding: 20px;
 }
 
 .veiculo.card{
@@ -40,7 +41,7 @@
 .veiculo.card img{
     width: 100%;
     height: auto;
-    margin-bottom: 0px;
+    margin-bottom: 10px;
 }
 
 .veiculoInformacao{
